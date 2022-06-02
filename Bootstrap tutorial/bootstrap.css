@@ -1,0 +1,30 @@
+
+.nav-bar{
+   position: fixed;
+   top: 0;
+   width: 100%;
+   overflow: hidden;
+}
+
+hr {
+    width: 20px;
+    position: center;
+    border-style: dotted none none;
+    border-width: 5px;
+    height: 0;
+    border-color: grey;
+    
+}
+
+.header {
+    padding: 50px 100px 0px 150px;
+}
+
+.row{
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+.nav-link{
+    size: 40px;
+}
